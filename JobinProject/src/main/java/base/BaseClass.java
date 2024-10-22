@@ -23,11 +23,7 @@ import actiondriver.Action;
 import utility.ExtentManager;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-/**
- * @author Hitendra: BaseClass is used to load the config file and Initialize 
- * WebDriver
- *  
- */
+
 public class BaseClass {
 	public static Properties prop;
 
